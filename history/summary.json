@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.chromus.tk",
     "slug": "chromus",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 506,
-    "timeDay": 1044,
-    "timeWeek": 507,
-    "timeMonth": 547,
-    "timeYear": 506,
+    "uptimeYear": "99.91%",
+    "time": 505,
+    "timeDay": 363,
+    "timeWeek": 508,
+    "timeMonth": 548,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2020-12-16": 257
     }
